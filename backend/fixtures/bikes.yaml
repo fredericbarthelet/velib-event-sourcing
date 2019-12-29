@@ -1,0 +1,3 @@
+App\Entity\Bike:
+    bike{0..10}:
+        type: '<numberBetween(1, 2)>'

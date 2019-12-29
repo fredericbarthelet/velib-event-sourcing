@@ -1,0 +1,4 @@
+App\Entity\Station:
+    station{0..10}:
+        location: '<streetAddress()>'
+        slots: '<numberBetween(10, 25)>'
